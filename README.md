@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-profile-banner.svg" alt="Manuel Hudec GitHub Profile Banner" width="100%">
+</p>
+
 # Manuel Hudec
 
 E-Commerce Operations · ERP/JTL · WordPress · Process Automation · Documentation Systems
@@ -15,7 +19,6 @@ My background is in hands-on e-commerce operations with a strong focus on JTL-Wa
 - WordPress, WooCommerce and Blocksy
 - GitHub-based documentation and knowledge systems
 - Digital workspaces and structured project workflows
-
 
 ## Current Work
 
