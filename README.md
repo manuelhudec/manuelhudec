@@ -16,19 +16,16 @@ My background is in hands-on e-commerce operations with a strong focus on JTL-Wa
 - GitHub-based documentation and knowledge systems
 - Digital workspaces and structured project workflows
 
+
 ## Current Work
 
-I am building structured knowledge bases and blueprints around:
+I am building structured systems around e-commerce operations, documentation workflows and digital workspaces.
 
-- personal positioning, CV and portfolio context
+Current focus areas include:
+
 - reusable workspace and documentation standards
-- Navario as a long-term operations, workspace and service insights concept
-
-## Navario
-
-Navario is being developed as a structure for digital workspaces, e-commerce operations, service insights, documentation and process optimization.
-
-The ecosystem is planned around **Navario Website**, **Navario Workspaces**, **Navario Docs** and a structured **Navario Client Portal**.
+- GitHub-based knowledge and project structures
+- an internal Operations Workspace Project for service insights, client workspaces, documentation and process optimization
 
 ## Links
 
